@@ -18,7 +18,11 @@
 
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/davejhorrocks/)
 
+<<<<<<< HEAD
 **Some of the repositories here are made when I had a very limited understanding of what I was doing! I have left them here to show my progression and as reminders to myself, hope they don't cause too much nausea!!**
+=======
+- [My CV](./CV.pdf)
+>>>>>>> parent of e2c7c72 (Revert "ADD CV[test], remove accidental upload")
 
 <!---
 DaveyJH/DaveyJH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
