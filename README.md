@@ -18,6 +18,8 @@
 
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/davejhorrocks/)
 
+**Some of the repositories here are made when I had a very limited understanding of what I was doing! I have left them here to show my progression and as reminders to myself, hope they don't cause too much nausea!!**
+
 <!---
 DaveyJH/DaveyJH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
