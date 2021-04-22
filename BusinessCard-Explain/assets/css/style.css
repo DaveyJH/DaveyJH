@@ -1,0 +1,308 @@
+/* get font */
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+
+
+body {
+  /* set font to [note top url for font] */
+  font-family: "Kumbh Sans", "Verdana", san-serif;
+    
+  font-weight: 400;
+  /* remove white edge border [normally 8 px] */
+  margin: 0;
+    
+}
+
+#contains-all {
+  /* hide back-bubbles [rememebr the red square] from overflowing in to white. this acts as a border for anything contained within this element*/
+  overflow: hidden;
+  /* allows positioning FROM this component starting position [top left corner] */
+  position: relative;
+  /* cover entire screen height */
+  height: 100vh;
+  /* set background color */
+  background-color: hsl(185, 75%, 39%);
+  /* UNSURE!!!  without, back-bubbles disappear! */
+  z-index: 1;
+}
+/* 
+#test {
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 25px;
+  top: -10px;
+} */
+
+.sect {
+  /* aligns TO #contains-all [top left corner] */
+  position: absolute;
+  /* top left corner to center of #contains-all */
+  left: 50%;
+  top: 50%;
+  /* offset against itself to center image. */
+  margin: -217px 0 0 -165px;
+ 
+}
+.sect>div {
+  /* set width and height of div */
+  width: 310px;
+  height: 170px;
+
+  /* does nothing?? */
+  /* margin: 22.5%, 35px; */
+}
+
+#top-bubbles {
+  /* height of top bubble bar */
+  height: 125px;
+  background-image: url("../images/bg-pattern-card.svg");
+
+  /* not needed, changes stretch marginally.  same across devices */
+  /* background-size: cover; */
+
+  /* rounds top corners */
+  border-radius: 25px 25px 0 0;
+
+  /* not needed */
+  /* z-index:1; */
+}
+
+#image-ball {
+  /* size and border and circle and image */
+  height: 120px;
+  width: 120px;
+  border-radius: 65px;
+  border: 5px solid white;
+  background-image: url("../images/portrait.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* align within circle 'space' made above */
+  background-position: -20px 0;
+  /* set right edge [blank from image] color */
+  background-color: #0f5050;
+  /* allows 'fake floating' */
+  position: absolute;
+  /* sets position of ball */
+  left: 90px;
+  top: 60px;
+  /* brings to front [renders before details] */
+  z-index: 5;
+
+  
+}
+
+#details {
+
+  background-color: white;
+  /* allows text positioning */
+  position: relative;
+  letter-spacing: 1.2px;
+  font-size: larger;
+}
+
+hr {
+    /* removes gapping around hr */
+    margin: 0;
+}
+#social {
+  /* set height of social section */
+  height: 12.5vh;
+  /* add padding to space out at bottom of social info */
+  padding-bottom: 10px;
+  background-color: white;
+
+  /* does nothing?? */
+  /* display: inline-block; */
+
+  /* round bottom border */
+  border-radius: 0 0 25px 25px;
+}
+
+.low-mid {
+  /* set line spacing for name etc */
+  line-height: 1.3rem;
+  /* set to same size as container */
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  /* set to be 30px from bottom to bottom edge */
+  bottom: 30px;
+}
+
+
+#social>span {
+  position: relative;
+  /* set start of text boxes */
+  left: 12px;
+  /* set all spans of social to social to diplay as inline block */
+  /* span is probably used incorrectly here.  80k has a space and then 803k and then 1.4k.  if another span is added, it cannot fit in the space remaining. */
+  display: inline-block;
+  /* spacing to ensure nice layout */
+  margin-top: -5%;
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: center;
+  top: 50%;
+  padding-top: 10px;
+}
+
+#social>span>span {
+
+  line-height: 30px;
+  font-size: small;
+  letter-spacing: 1.4px;
+}
+
+.bold {
+  font-weight: 700;
+  }
+
+.bold>span {
+  /* display span inside "bold" span underneath */
+  display: block;
+  font-weight: 400;
+  font-size: small;
+}
+
+#age {
+  font-weight: 400;
+  /* set age to display next to name */
+  display: inline;
+  line-height: 40px;
+}
+
+span.number {
+  font-size: large;
+}
+
+.attribution { font-size: 11px; text-align: center; width: 100vw; line-height: 15px; height: 15px; position: absolute; bottom: 0px; left:0}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+#back-bubbles {
+  /* set size to area to correct size behind card */
+  height: 940px;
+  width: 1040px;
+  /* set position of containing box for image */
+  position: relative;
+  top: -420px;
+  right: 400px;
+
+   background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg") ;
+  background-size: 520px 520px, 500px 500px;
+  /* set individual image position within conatining box */
+  background-position: 50px -90px,548px 474px;
+  background-repeat: no-repeat, no-repeat; 
+  /* set to render behind card */
+  z-index: -1;
+}
+
+
+#rotate {
+  font-size: xx-large;
+  color: hsl(228, 45%, 44%); 
+  /* space away from edge */
+  margin: 30px;
+}
+
+
+/* mobile portait */
+@media only screen and (max-width: 430px) {
+/* set to span entire window */
+  #contains-all {
+    max-width: 100vw;
+    max-height: 100vh;
+    height: 100vh;
+  }
+
+
+  /* body>div:first-child {
+    background-position: 0 400px;
+    background-size: 200%; 
+  } */
+
+
+  .sect {
+    /* reposition to middle of screen */
+    margin: -225px 0 0 -155px;
+  }
+
+  /* body {
+    height: 95vh;
+    overflow: hidden;
+  } */
+
+
+
+
+  /* #social>span>span {
+    line-height:18px;
+  } */
+
+  #social>span {
+    /* space text away from top */
+    top: 30px;
+  }
+
+  #image-ball {
+    /* change image to diff */
+    background-image: url("../images/joanddave.jpg");
+    transform: rotate(270deg);
+  }
+
+  /* set footer to appear white */
+  .attribution {
+    height: 22px;
+    width: 100%;
+    line-height: 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+  }
+}
+
+/* normal screen orient */
+@media screen and (orientation:landscape) {
+  body {
+    visibility: visible;
+  }
+  p {
+    visibility: hidden;
+  }
+}
+
+/* @media only screen and (max-height: 540px) {
+  #social {
+    height: 67px;
+  }
+} */
+
+/* landscape phone */
+@media screen and (orientation:landscape) and (max-height: 400px) {
+
+  body {
+    visibility: hidden;
+    overflow: hidden;
+  }
+
+  p {
+    visibility: visible;
+    position: relative;
+    top: -90vh;
+  }
+}
+
+@media screen and (orientation:portrait) {
+
+  body {
+    visibility: visible;
+    overflow: hidden;
+  }
+
+  p {
+    visibility: hidden;
+  }
+}
+
