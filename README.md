@@ -7,6 +7,10 @@
 *As stated above, due to various reasons, I have decided to retrain in the software development industry.  I hope to develop a broad knowledge base and widen my understanding of languges. I hope to bring expertise in problem solving and to creating innovative solutions*
 
 - 🌱 I’m currently learning ...
+    - *Javascript*
+    - *Python*
+
+- :computer: Languages I am comfortable working with are...
     - *HTML*
     - *CSS*
 
