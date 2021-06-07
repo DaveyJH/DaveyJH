@@ -22,7 +22,7 @@
 
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/davejhorrocks/)
 
-- [My CV](./CV.pdf)
+- [My CV](./cv.pdf)
 
 
 <!---
