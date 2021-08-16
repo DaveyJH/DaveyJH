@@ -4,15 +4,15 @@
 
 - 👀 I’m interested in ... Coding!
 
-*As stated above, due to various reasons, I have decided to retrain in the software development industry.  I hope to develop a broad knowledge base and widen my understanding of languges. I hope to bring expertise in problem solving and to creating innovative solutions*
+*As stated above, due to various reasons, I have decided to retrain in the software development industry.  I hope to develop a broad knowledge base and widen my understanding of languages. I intend to bring expertise in problem-solving and to create innovative solutions*
 
 - 🌱 I’m currently learning ...
-    - *Javascript*
     - *Python*
 
 - :computer: Languages I am comfortable working with are...
     - *HTML*
     - *CSS*
+    - *JavaScript*
 
 - 💞️ I’m looking to collaborate on ... N/A (For now)
 
