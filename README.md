@@ -52,4 +52,4 @@ your curiosity, **don't hesitate to get in touch:**
 
 [<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/davejhorrocks/)
 
-*Thanks to @Abibubble for the README styling idea!* :nerd_face:
+*Thanks to [@Abibubble](https://github.com/Abibubble) for the README styling idea!* :nerd_face:
