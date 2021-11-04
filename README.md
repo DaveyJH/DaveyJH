@@ -1,30 +1,54 @@
-- 👋 Hi, I’m @DaveyJH
+# ![A forked workflow](./banner.jpg)
 
-*I am currently learning with [Code Institute](https://www.codeinstitute.net) and progressing toward a Diploma in Full Stack Software Development. I hope to find my feet and embark on a career in the software development industry*
+## About Me
 
-- 👀 I’m interested in ... Coding!
+👋 Hi, I’m @DaveyJH. A Junior Software Developer, residing in the South West of
+the UK.
 
-*As stated above, due to various reasons, I have decided to retrain in the software development industry.  I hope to develop a broad knowledge base and widen my understanding of languges. I hope to bring expertise in problem solving and to creating innovative solutions*
+I am currently learning with [Code Institute](https://www.codeinstitute.net) and
+progressing toward a Diploma in Full Stack Software Development. I hope to find
+my feet and embark on a career in the software development industry.
 
-- 🌱 I’m currently learning ...
-    - *Javascript*
-    - *Python*
+Originally trained as a mechanic and vehicle diagnostic expert, I developed a
+strong background in problem-solving and logical fault-finding. Spending a few
+years working with IP video surveillance, addressable fire alarm systems and
+various other HID systems gave me a great insight into flow control, cause and
+effect programming and a thorough approach to system design.
 
-- :computer: Languages I am comfortable working with are...
-    - *HTML*
-    - *CSS*
+👀 I’m interested in ... Coding!
 
-- 💞️ I’m looking to collaborate on ... N/A (For now)
+I decided to retrain in the software development industry during 2021. I hope to
+develop a broad knowledge base and widen my understanding of languages. I intend
+to bring expertise in problem-solving and to create innovative solutions.
 
-*I have a few ideas for the future, but my skills have a long way to go before I am ready for any of that!*
+## GitHub statistics
 
-*That said, if you have found something through my portfolio which really piques your curiosity,* **don't hesitate to get in touch:**
+![DaveyJH's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveyJH&show_icons=true&theme=radical)
 
-- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/davejhorrocks/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveyJH&layout=compact&theme=radical)
 
-- [My CV](./cv.pdf)
 
-<!---
-DaveyJH/DaveyJH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning ...
+
+- *Python*
+- *C#*
+
+:computer: Languages I am comfortable working with are...
+  
+- *HTML*
+- *CSS*
+- *Javascript*
+
+💞️ I’m looking to collaborate on ... N/A (For now!)
+
+*I have a few ideas for the future, but I am focussing on improving my skill set
+for now!*
+
+That said, if you have found something through my portfolio which really piques
+your curiosity, **don't hesitate to get in touch:**
+
+[<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/davejhorrocks/)
+
+### [My CV](./cv.pdf)
+
+*Thanks to @Abibubble for the README styling idea!* :nerd_face:
