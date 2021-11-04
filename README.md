@@ -27,7 +27,6 @@ to bring expertise in problem-solving and to create innovative solutions.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveyJH&layout=compact&theme=radical)
 
-
 🌱 I’m currently learning ...
 
 - *Python*
@@ -44,11 +43,13 @@ to bring expertise in problem-solving and to create innovative solutions.
 *I have a few ideas for the future, but I am focussing on improving my skill set
 for now!*
 
-That said, if you have found something through my portfolio which really piques
+**[Curriculum Vitae](./cv.pdf)**
+
+## Contact Me
+
+If you have found something through my portfolio which really piques
 your curiosity, **don't hesitate to get in touch:**
 
 [<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/davejhorrocks/)
-
-### [My CV](./cv.pdf)
 
 *Thanks to @Abibubble for the README styling idea!* :nerd_face:
