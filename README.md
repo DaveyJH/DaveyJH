@@ -43,7 +43,7 @@ to bring expertise in problem-solving and to create innovative solutions.
 *I have a few ideas for the future, but I am focussing on improving my skill set
 for now!*
 
-**[Curriculum Vitae](./cv.pdf)**
+**[Curriculum Vitae](./djhorrocks-cv.pdf)**
 
 ## Contact Me
 
@@ -52,4 +52,5 @@ your curiosity, **don't hesitate to get in touch:**
 
 [<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/davejhorrocks/)
 
-*Thanks to [@Abibubble](https://github.com/Abibubble) for the README styling idea!* :nerd_face:
+*Thanks to [@Abibubble](https://github.com/Abibubble) for the README styling idea!*
+:nerd_face:
