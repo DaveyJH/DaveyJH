@@ -145,7 +145,8 @@ I have written a couple of blog entries for Code Institute. One in particular re
 ### [Memoize function that sums the factorials of an array of given integers](https://www.codewars.com/kata/reviews/644439a6de073e0001b37a72/groups/64492a6cd59657000130f868)
 
 This is a solution to a CodeWars kata. I think it employs good practices and
-interesting implementations.
+interesting implementations... I could very well be wrong! As with all my code,
+I would love feedback if anybody thinks there is something wrong here!
 
 ```javascript
 const factorials = { 1: 1 };
