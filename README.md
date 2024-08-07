@@ -5,11 +5,10 @@
 👋 Hi, I’m @DaveyJH. A Junior Software Developer, residing in the South West of
 the UK...sometimes.
 
-I am currently learning and working with
-[Code Institute](https://www.codeinstitute.net) and progressing toward a Diploma
-in Full Stack Software Development. I am really happy to have been employed by
-the course provider whilst mid-flight. It has delayed my completion date, but
-the purpose of the course was to learn... and I have done plenty of that!
+I am currently working with
+[Code Institute](https://www.codeinstitute.net), helping to provide high quality
+content for career changers to break into tech. I love to learn... and I have
+done plenty of that!
 
 Originally trained as a mechanic and vehicle diagnostic expert, I developed a
 strong background in problem-solving and logical fault-finding. Spending a few
@@ -17,13 +16,14 @@ years working with IP video surveillance, addressable fire alarm systems and
 various other HID systems gave me a great insight into flow control, cause and
 effect programming and a thorough approach to system design.
 
-### 👀 I’m interested in ... Coding! Logic! Numbers!
+### 👀 I’m interested in ... Coding! Logic! Numbers! Accessibility!
 
 I decided to retrain in the software development industry in 2021. I hope to
 develop a broad knowledge base and widen my understanding of languages. I intend
 to bring expertise in problem-solving and create innovative solutions. I love
 logical and lateral thinking, I find that abstracting a problem to the core
-details can clear the fog that often delays the creation of solutions.
+details can clear the fog that often delays the creation of solutions. I am
+also driven to provide products that are accessible for all.
 
 To me...there is no rule book! 🤷‍♂️
 
@@ -31,7 +31,9 @@ To me...there is no rule book! 🤷‍♂️
 
 ### GitHub
 
-These are a little lower than I would like at the moment; a lot of my current occupational activities are carried out away from GitHub. I still work with code every day (I might take the occasional Sunday off! 😛)
+These are a little lower than I would like at the moment; a lot of my current
+occupational activities are carried out away from GitHub. I still work with code
+every day (I might take the occasional Sunday off! 😛)
 
 ![DaveyJH's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveyJH&show_icons=true&theme=radical)
 
@@ -40,12 +42,6 @@ These are a little lower than I would like at the moment; a lot of my current oc
 ### CodeWars
 
 ![CodeWars stats](https://www.codewars.com/users/DaveyJH/badges/large)
-
-🌱 I’m currently learning ...
-
-- *C#*
-- *Ruby*
-- *Introductory DevOps*
 
 ### :computer: Languages I am comfortable working with are...
 
@@ -133,13 +129,19 @@ putsLanguage  # Ruby
 
 ### 💞️ I’m looking to collaborate on ... N/A (For now!)
 
-I am currently, slowly, occasionally, working on a markdown to HTML converter. I have a specific requirement for this tooling, but I do think it might be a useful extension if it works well. At the moment, it is private and very far from complete. Once it is a little more robust, I may look for contributions. Be warned...Regex features heavily!
+I am currently, slowly, occasionally, working on a markdown to HTML converter. I
+have a specific requirement for this tooling, but I do think it might be a useful
+extension if it works well. At the moment, it is private and very far from complete.
+Once it is a little more robust, I may look for contributions. Be warned...Regex
+features heavily!
 
 ## A few things I am proud of
 
 ### Blogs
 
-I have written a couple of blog entries for Code Institute. One in particular received a lot of positive feedback from technical and non-technical personas. [Have a read here.](https://codeinstitute.net/blog/learn-javascript-tips-and-tricks/)
+I have written a couple of blog entries for Code Institute. One in particular
+received a lot of positive feedback from technical and non-technical personas.
+[Have a read here.](https://codeinstitute.net/blog/learn-javascript-tips-and-tricks/)
 
 
 ### [Memoize function that sums the factorials of an array of given integers](https://www.codewars.com/kata/reviews/644439a6de073e0001b37a72/groups/64492a6cd59657000130f868)
