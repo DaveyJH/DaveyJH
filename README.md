@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 Hi, I’m @DaveyJH. A Junior Software Developer, residing in the South West of
+👋 Hi, I’m @DaveyJH. A Software Engineer, residing in the South West of
 the UK...sometimes.
 
 I am currently working with
