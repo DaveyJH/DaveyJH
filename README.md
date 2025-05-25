@@ -33,7 +33,8 @@ To me...there is no rule book! 🤷‍♂️
 
 These are a little lower than I would like at the moment; a lot of my current
 occupational activities are carried out away from GitHub. I still work with code
-every day (I might take the occasional Sunday off! 😛)
+every day (I might take the occasional Sunday off! 😛) and a lot of contributions
+are to private repositories and not represented here.
 
 ![DaveyJH's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveyJH&show_icons=true&theme=radical)
 
