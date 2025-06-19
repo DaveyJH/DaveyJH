@@ -244,11 +244,14 @@ if __name__ == "__main__":
 
 ```
 
+
 ## Contact Me
 
 If you have found something in my portfolio which really piques
 your curiosity, **don't hesitate to get in touch:**
 
 [<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/davejhorrocks/)
+
+[![CodeWars stats](https://www.codewars.com/users/DaveyJH/badges/large)](https://www.codewars.com/users/DaveyJH)
 
 **[Curriculum Vitae](./djhorrocks-cv.pdf)**
