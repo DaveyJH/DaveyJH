@@ -5,6 +5,10 @@
 👋 Hi, I’m @DaveyJH. A Software Engineer, residing in the South West of
 the UK...sometimes.
 
+> Most of my GitHub repositories are not actively hosted to save costs. If you
+> want to see any of the sites up and running, either clone it and have some fun
+> or reach out with some details and I will do my best to acquiesce your request.
+
 I am currently working with [Code Institute](https://www.codeinstitute.net),
 helping to provide high quality content for career changers to break into tech.
 I love to learn... and I have done plenty of that!
@@ -33,11 +37,6 @@ Sunday off! 😛) and many contributions are to private repositories and not
 represented here.
 
 _Be warned...RegEx and I are very good friends!_
-
-> Most of my GitHub repositories are not actively hosted to save costs. If you
-> want to see any of the sites up and running, either clone it and have some fun
-> or reach out with some details and I will do my best to acquiesce your request.
-
 
 ## A few things I am proud of
 
