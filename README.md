@@ -5,136 +5,39 @@
 👋 Hi, I’m @DaveyJH. A Software Engineer, residing in the South West of
 the UK...sometimes.
 
-I am currently working with
-[Code Institute](https://www.codeinstitute.net), helping to provide high quality
-content for career changers to break into tech. I love to learn... and I have
-done plenty of that!
+I am currently working with [Code Institute](https://www.codeinstitute.net),
+helping to provide high quality content for career changers to break into tech.
+I love to learn... and I have done plenty of that!
 
-Originally trained as a mechanic and vehicle diagnostic expert, I developed a
-strong background in problem-solving and logical fault-finding. Spending a few
-years working with IP video surveillance, addressable fire alarm systems and
-various other HID systems gave me a great insight into flow control, cause and
-effect programming and a thorough approach to system design.
+Originally trained as a mechanic, moving on to become a vehicle diagnostic
+expert, I developed a strong background in problem-solving and logical
+fault-finding. Spending a few years working with IP video surveillance,
+addressable fire alarm systems and various other HID systems gave me a great
+insight into flow control, cause and effect programming and a thorough approach
+to system design.
+
+_To me...there is no rule book! 🤷‍♂️_
 
 ### 👀 I’m interested in ... Coding! Logic! Numbers! Accessibility!
 
-I decided to retrain in the software development industry in 2021. I hope to
-develop a broad knowledge base and widen my understanding of languages. I intend
-to bring expertise in problem-solving and create innovative solutions. I love
-logical and lateral thinking, I find that abstracting a problem to the core
-details can clear the fog that often delays the creation of solutions. I am
-also driven to provide products that are accessible for all.
+Always developing my development - I hope to attain a broad knowledge base and
+widen my understanding of languages. I bring expertise in problem-solving and
+create innovative solutions. I love logical and lateral thinking, I find that
+abstracting a problem to the core details can clear the fog that often delays
+the creation of solutions. I am ambitious and driven to provide products that
+are accessible for all.
 
-To me...there is no rule book! 🤷‍♂️
+A lot of my current occupational activities are carried out away from GitHub's
+public domain. I still work with code every day (I might take the occasional
+Sunday off! 😛) and many contributions are to private repositories and not
+represented here.
 
-## Statistics
+_Be warned...RegEx and I are very good friends!_
 
-### GitHub
+> Most of my GitHub repositories are not actively hosted to save costs. If you
+> want to see any of the sites up and running, either clone it and have some fun
+> or reach out with some details and I will do my best to acquiesce your request.
 
-These are a little lower than I would like at the moment; a lot of my current
-occupational activities are carried out away from GitHub. I still work with code
-every day (I might take the occasional Sunday off! 😛) and a lot of contributions
-are to private repositories and not represented here.
-
-![DaveyJH's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveyJH&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveyJH&layout=compact&theme=radical)
-
-### CodeWars
-
-![CodeWars stats](https://www.codewars.com/users/DaveyJH/badges/large)
-
-### :computer: Languages I am comfortable working with are...
-
-```python
-def print_language(lang):
-    """Shows a language I am comfortable with
-    
-    ---
-    Args:
-        lang (str): the language to be printed, capitalizes first letter
-
-    Returns:
-      None
-    """
-
-    print(lang.title())
-
-
->>>print_language("python")
-Python
-
-```
-
-```JavaScript
-/**
- * Shows a language I am comfortable with
- * @param {string} lang - the language to be printed, capitalizes as needed
- * @returns {void}
- */
-function printLanguage(lang) {
-  console.log(`${lang[0].toUpperCase()}${lang.slice(1, lang.indexOf("s"))
-    }${lang.slice(lang.indexOf("s")).charAt(0).toUpperCase()
-    }${lang.substring(lang.length - 5).toLowerCase()}`);
-}
-
-printLanguage("javascrIPT"); // JavaScript
-
-```
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML</title>
-  </head>
-  <body>
-    <!-- Shows a language I am comfortable with -->
-    <h1>HTML<h1>
-  </body>
-</html>
-
-```
-
-```css
-  /* Shows a language I am comfortable with */
-:root {
-  --rPurple: #663399;
-}
-
-body:before {
-  content: "CSS";
-  font-size: 2rem;
-  font-family: Arial, Helvetica, sans-serif;
-  text-decoration: underline overline dashed rgba(102,51,153,.8) 2px;
-  color: var(--rPurple);
-  background-color: #eaeaea;
-}
-
-```
-
-```ruby
-# Shows a language I am (somewhat) comfortable with
-def putsLanguage
-  if true
-    puts "ruby".capitalize!
-  end
-end
-
-putsLanguage  # Ruby
-
-```
-
-### 💞️ I’m looking to collaborate on ... N/A (For now!)
-
-I am currently, slowly, occasionally, working on a markdown to HTML converter. I
-have a specific requirement for this tooling, but I do think it might be a useful
-extension if it works well. At the moment, it is private and very far from complete.
-Once it is a little more robust, I may look for contributions. Be warned...Regex
-features heavily!
 
 ## A few things I am proud of
 
